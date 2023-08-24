@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Dev on this project has been stopped for a while. 
 <!--
 
 **Here are some ideas to get you started:**
